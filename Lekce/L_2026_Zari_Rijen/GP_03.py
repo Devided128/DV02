@@ -1,0 +1,5 @@
+jmeno = input("Zadej jmeno:")
+prijmeni = input("Zadej prijmeni:")
+vek = int(input("Zadej vek:"))
+zaliba = input("Zadej zálibu:")
+print (f"Jmenuji se {jmeno} {prijmeni}, je mi {vek} let a moje zaliba je {zaliba}")
