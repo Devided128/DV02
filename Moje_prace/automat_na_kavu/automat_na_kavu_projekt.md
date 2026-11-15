@@ -1,12 +1,21 @@
-# Automat na kavu
+# Projekt: Automat na kávu
 
-## Popis projektu
-Tento projekt je jednoduchy automat na kavu vytvoreny v Pythonu.
+## Cíl projektu
+Vytvořit jednoduchý program, který simuluje automat na kávu.
 
 ## Funkce
-- Vyber ze tri druhu kavy
-- Kontrola spravneho vyberu
-- Vypsani vysledku
+- Výběr ze tří druhů kávy
+- Kontrola vybrané možnosti
+- Vypsání zvoleného nápoje
+- Informace o dokončení přípravy
 
-## Pouzite technologie
-- Python
+## Použité programovací prvky
+- Proměnné
+- `input()` a `print()`
+- Podmínky `if`, `elif`, `else`
+
+## Technická část
+Program je vytvořen v jazyce Python. Nepoužívá žádné externí knihovny ani API. Pro výběr nápoje využívá podmínky.
+
+## Očekávaný výsledek
+Funkční program, který umožní vybrat jeden ze tří druhů kávy.
