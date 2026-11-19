@@ -18,6 +18,7 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
 - Automat na kávu – jednoduchý program pro výběr kávy.
 - Osobní profil – program pro vytvoření osobního profilu.
 - Převodník jednotek – program pro převádění jednotek délky.
+- Kamen, nuzky, papir - Jednoducha hra proti pocitaci. 
 
 ## Použité technologie
 
