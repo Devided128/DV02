@@ -13,12 +13,19 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
 3. **Převodník jednotek**
    - Datum zápisu: 15. 11. 2026
 
+4. **Kámen, nůžky, papír**
+   - Jednoduchá hra proti počítači.
+
+5. **Kalkulačka**
+   - Jednoduchá kalkulačka se čtyřmi matematickými operacemi.
+
 ## Popis projektů
 
 - Automat na kávu – jednoduchý program pro výběr kávy.
 - Osobní profil – program pro vytvoření osobního profilu.
 - Převodník jednotek – program pro převádění jednotek délky.
-- Kamen, nuzky, papir - Jednoducha hra proti pocitaci. 
+- Kámen, nůžky, papír – jednoduchá hra proti počítači.
+- Kalkulačka – program pro sčítání, odčítání, násobení a dělení.
 
 ## Použité technologie
 
