@@ -19,6 +19,9 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
 5. **Kalkulačka**
    - Jednoduchá kalkulačka se čtyřmi matematickými operacemi.
 
+ 6. **Hádání čísla**
+   - Jednoduchá hra, ve které uživatel hádá náhodné číslo.
+
 ## Popis projektů
 
 - Automat na kávu – jednoduchý program pro výběr kávy.
@@ -26,6 +29,7 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
 - Převodník jednotek – program pro převádění jednotek délky.
 - Kámen, nůžky, papír – jednoduchá hra proti počítači.
 - Kalkulačka – program pro sčítání, odčítání, násobení a dělení.
+- Hádání čísla – hra, ve které uživatel hádá číslo vygenerované počítačem.
 
 ## Použité technologie
 
