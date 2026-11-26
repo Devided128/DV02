@@ -22,6 +22,9 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
  6. **Hádání čísla**
    - Jednoduchá hra, ve které uživatel hádá náhodné číslo.
 
+7. **Generátor hesel**
+   - Program pro vytváření náhodných hesel.
+
 ## Popis projektů
 
 - Automat na kávu – jednoduchý program pro výběr kávy.
@@ -30,6 +33,7 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
 - Kámen, nůžky, papír – jednoduchá hra proti počítači.
 - Kalkulačka – program pro sčítání, odčítání, násobení a dělení.
 - Hádání čísla – hra, ve které uživatel hádá číslo vygenerované počítačem.
+- Generátor hesel – program pro generování náhodných hesel podle zadané délky.
 
 ## Použité technologie
 
