@@ -25,6 +25,9 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
 7. **Generátor hesel**
    - Program pro vytváření náhodných hesel.
 
+8. **Kvízová hra**
+   - Vědomostní hra s otázkami a vyhodnocováním odpovědí.
+
 ## Popis projektů
 
 - Automat na kávu – jednoduchý program pro výběr kávy.
@@ -34,6 +37,7 @@ Tento repozitář obsahuje moje domácí programátorské projekty vytvořené v
 - Kalkulačka – program pro sčítání, odčítání, násobení a dělení.
 - Hádání čísla – hra, ve které uživatel hádá číslo vygenerované počítačem.
 - Generátor hesel – program pro generování náhodných hesel podle zadané délky.
+- Kvízová hra – vědomostní hra, ve které uživatel odpovídá na otázky s možnostmi A, B a C. Program kontroluje správnost odpovědí, počítá získané body a na konci zobrazí celkový výsledek.
 
 ## Použité technologie
 
